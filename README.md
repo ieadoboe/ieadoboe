@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Isaac
-- 👀 I’m interested in training deep neural networks
-- 🤝 I’m looking to collaborate on anything interesting
+- 👀 I develop deep neural networks and ML systems for complex physical sciences
+- 🧠 I'm interested in physics-informed ML, surrogate modeling, neural parametization
+- 🤝 I’m looking to collaborate on scientific ML projects
 - 📫 How to reach me @ieadoboe on twitter
 
 <!---
